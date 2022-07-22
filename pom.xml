@@ -40,13 +40,13 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
-        <name>release softx</name>
+        <id>Deployment</id>
+        <name>Deployment</name>
         <url>http://43.205.115.167:8081/nexus/content/repositories/mph/</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
-        <name>snapshot softx</name>
+        <id>Deployment</id>
+        <name>Deployment</name>
         <url>http://43.205.115.167:8081/nexus/content/repositories/mphsnap/</url>
     </snapshotRepository>
 </distributionManagement>
