@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>Internal Releases2</name>
-        <url>http://43.205.130.184:8081/nexus/content/repositories/mph/</url>
+        <url>http://3.109.62.175:8081/nexus/content/repositories/mph/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal Releases2</name>
-        <url>http://43.205.130.184:8081/nexus/content/repositories/mphsnap/</url>
+        <url>http://3.109.62.175:8081/nexus/content/repositories/mphsnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
