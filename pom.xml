@@ -41,12 +41,12 @@
 <distributionManagement>
     <repository>
         <id>deployment</id>
-        <name>Inrernal Releases1</name>
+        <name>Internal Releases1</name>
         <url>http://43.205.130.184:8081/nexus/content/repositories/mph/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
-        <name>Inrernal Releases</name>
+        <name>Internal Releases</name>
         <url>http://43.205.130.184:8081/nexus/content/repositories/mphsnap/</url>
     </snapshotRepository>
 </distributionManagement>
