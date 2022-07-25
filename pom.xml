@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>Deployment</id>
-        <name>Deployment</name>
-        <url>http://43.205.115.167:8081/nexus/content/repositories/mph/</url>
+        <id>deployment</id>
+        <name>Inrernal Releases1</name>
+        <url>http://43.205.130.184:8081/nexus/content/repositories/mph/</url>
     </repository>
     <snapshotRepository>
-        <id>Deployment</id>
-        <name>Deployment</name>
-        <url>http://43.205.115.167:8081/nexus/content/repositories/mphsnap/</url>
+        <id>deployment</id>
+        <name>Inrernal Releases</name>
+        <url>http://43.205.130.184:8081/nexus/content/repositories/mphsnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
