@@ -46,7 +46,7 @@
     </repository>
     <snapshotRepository>
         <id>deployment</id>
-        <name>Internal Releases</name>
+        <name>Internal Releases2</name>
         <url>http://43.205.130.184:8081/nexus/content/repositories/mphsnap/</url>
     </snapshotRepository>
 </distributionManagement>
